@@ -1,2 +1,2 @@
-My first readme
+My first readme.
 So far so good
